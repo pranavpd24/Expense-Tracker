@@ -15,4 +15,4 @@ A Python-based expense tracker application with a CSV backend. Features include 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Expense-Tracker.git
+   git clone https://github.com/pranavpd24/Expense-Tracker.git
